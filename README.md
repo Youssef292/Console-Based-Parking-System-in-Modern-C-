@@ -48,7 +48,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 ## Sample Output
 
@@ -92,7 +92,7 @@ Spot 3 [ REGULAR ] -> AVAILABLE
 - `findCar()`  
 
 ---
-
+```
 ## Future Improvements
 
 - Implement **daily revenue and traffic reports**  
