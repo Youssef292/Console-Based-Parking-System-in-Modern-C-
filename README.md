@@ -22,7 +22,7 @@ A **console-based parking management system** implemented in **Modern C++**, uti
 
 ## Technologies & Concepts
 
-- **Modern C++** (C++11/14)  
+- **Modern C++** (C++11/14/17)  
 - **STL Containers**: `map`, `vector`  
 - **Structs** for data modeling (`ParkingSession`, `Receipt`)  
 - **Algorithms**: `std::max`, `std::round`  
