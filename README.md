@@ -74,7 +74,7 @@ Entry Time : 00 : 06
 Available Spots:
 Spot 3 [ REGULAR ] -> AVAILABLE
 ...
-
+```
 ## Project Structure
 
 - **ParkingSession** → stores active car details  
@@ -92,7 +92,7 @@ Spot 3 [ REGULAR ] -> AVAILABLE
 - `findCar()`  
 
 ---
-```
+
 ## Future Improvements
 
 - Implement **daily revenue and traffic reports**  
